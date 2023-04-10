@@ -1,30 +1,4 @@
-nav {
-  background-color: #9f9f9f;
-  height: 50px;
-}
 
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-}
-
-li {
-  float: left;
-}
-
-a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-a:hover {
-  background-color: #c7fa23;
-}
 
 .botao1 {
   background-color: #ebd50c;
@@ -74,19 +48,13 @@ left:1400px;
   color: black;
   border: 2px solid #ebd50c; /* amarelo */
 }
-.botao2 {
-  -webkit-transition-duration: 0.4s; /* Safari */
-  transition-duration: 0.4s;
-}
+
 
 .botao2:hover {
-  background-color: #effc00; /* Green */
+  background-color: #e6e6e6; /* Green */
   color: white;
 }
 
-.botao2 {
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
-}
 
 
 h2 {
@@ -102,6 +70,7 @@ h2 {
   background-color: #2f2e2e1d;
   
   }
+
 
 
 
@@ -147,7 +116,9 @@ h2 {
 
 
   p {
+  
     color: #666;
+   
     font-size: 18px;
     line-height: 1.5;
     margin-bottom: 20px;
@@ -157,3 +128,5 @@ h2 {
     
 
   }
+
+  
